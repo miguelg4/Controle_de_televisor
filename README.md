@@ -1,2 +1,5 @@
 # Controle_de_televisor
-criação de método simples de controle de canais e volume em uma televisão
+# criação de método simples de controle de canais e volume em uma televisão
+
+# Esse exemplo simples que pode ser melhorado, então se tem algum feedback sobre a Class, pode me ajudar, vou aprender muito com o feedback.
+
